@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/QQL-Team/.profile/blob/main/banner.png" width="100%" />
+</p>
 # QQL Team
 
 🚀 **Welcome to the official GitHub organization of QQL Team**
